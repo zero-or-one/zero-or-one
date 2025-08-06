@@ -5,7 +5,6 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=zero-or-one&count_private=true&theme=radical" />
 </a>
 </div>
-I know it’s not good, but it’s a way to improve.
 
 ## 🛠 Skills
 - **Programming Languages:** `Python`, `C++`, `C`, `SQL`
