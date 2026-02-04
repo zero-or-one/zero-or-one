@@ -10,9 +10,10 @@
 - **Programming Languages:** `Python`, `C++`, `C`, `SQL`
 - **ML Frameworks:** `PyTorch`, `Transformers`, `vLLM`, `TensorFlow`
 
-<a href="https://github.com/zero-or-one/zero-or-one" style="max-width:50%;" >
+<!-- <a href="https://github.com/zero-or-one/zero-or-one" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-or-one&layout=compact&langs_count=8">
-</a>
+</a> -->
+
 
 ## Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zero-or-one&&theme=github-compact" alt="S's github activity graph"/>
